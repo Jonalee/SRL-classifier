@@ -1,6 +1,6 @@
 This is a classifier for semantic role labeling.
 Model 1 is based on syntactic features.
-Model 2 is based on word embddings.
+Model 2 is based on word emebddings.
 Model 3 is a combined version.
 It is necessary to download the dutch word embedding file and the corpus created by De Clercq:
 https://biblio.ugent.be/publication/2129097/file/6771668
@@ -9,4 +9,4 @@ Links:
 Dutch Word Embeddings:
 https://github.com/clips/dutchembeddings
 A link to the used word embddings with instructions for the download. 
-For this paper the version îcombined 160î was used and saved in a file called îword embeddings 160î in the same directory as the python scripts.
+For this paper the version ‚Äùcombined 160‚Äù was used and saved in a file called ‚Äùword embeddings 160‚Äù in the same directory as the python scripts.
